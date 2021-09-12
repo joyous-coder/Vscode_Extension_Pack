@@ -2,8 +2,9 @@
     "name": "java-extension-ordinary-pack",
     "displayName": "Java Extension Ordinary Pack",
     "description": "Help you write java easily !!!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "joyous-coder",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.60.0"
     },

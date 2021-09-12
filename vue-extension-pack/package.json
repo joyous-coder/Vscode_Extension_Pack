@@ -2,9 +2,10 @@
     "name": "vue-extension-pack",
     "displayName": "Vue Extension Pack",
     "description": "Help you write Vue more easily!!!",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "joyous-coder",
     "keywords": ["vue","javascript","js"],
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.60.0"
     },

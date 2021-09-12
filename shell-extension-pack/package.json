@@ -2,11 +2,12 @@
     "name": "shell-extension-pack",
     "displayName": "Shell Extension Pack",
     "description": "Help you write shell script more easily!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "joyous-coder",
     "engines": {
         "vscode": "^1.57.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Extension Packs"
     ],

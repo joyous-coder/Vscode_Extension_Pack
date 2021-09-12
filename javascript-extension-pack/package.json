@@ -2,11 +2,12 @@
     "name": "javascript-extension-pack",
     "displayName": "Javascript Extension Pack",
     "description": "Help you program js more easily !!!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "joyous-coder",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Extension Packs"
     ],
