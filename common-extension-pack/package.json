@@ -1,0 +1,19 @@
+{
+    "name": "common-extension-pack",
+    "displayName": "Common Extension Pack",
+    "description": "For common use",
+    "version": "0.0.1",
+    "publisher": "joyous-coder",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "alefragnani.bookmarks",
+        "xyz.local-history", 
+        "pkief.material-icon-theme",
+        "vscodevim.vim"
+    ]
+}
