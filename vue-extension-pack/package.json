@@ -1,0 +1,38 @@
+{
+    "name": "vue-extension-pack",
+    "displayName": "Vue Extension Pack",
+    "description": "Help you write Vue more easily!!!",
+    "version": "0.0.2",
+    "publisher": "joyous-coder",
+    "keywords": ["vue","javascript","js"],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyous-coder/VSCode_Extension_Pack_Vue.git"
+    },
+    "extensionPack": [ 
+        "abusaidm.html-snippets", 
+        "anseki.vscode-color", 
+        "auchenberg.vscode-browser-preview", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "humao.rest-client", 
+        "octref.vetur", 
+        "redhat.vscode-xml", 
+        "ritwickdey.LiveServer", 
+        "sdras.vue-vscode-snippets", 
+        "SonarSource.sonarlint-vscode", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "xabikos.JavaScriptSnippets",
+        "jasonnutter.search-node-modules"
+    ]
+}

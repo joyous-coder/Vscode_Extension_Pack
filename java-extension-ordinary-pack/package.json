@@ -1,0 +1,40 @@
+{
+    "name": "java-extension-ordinary-pack",
+    "displayName": "Java Extension Ordinary Pack",
+    "description": "Help you write java easily !!!",
+    "version": "0.0.1",
+    "publisher": "joyous-coder",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyous-coder/VSCode_Extension_Pack_Java.git"
+    },
+    "extensionPack": [ 
+        "eamodio.gitlens", 
+        "GabrielBB.vscode-lombok", 
+        "Gruntfuggly.todo-tree", 
+        "humao.rest-client", 
+        "naco-siren.gradle-language", 
+        "nickheap.vscode-ant", 
+        "redhat.java", 
+        "redhat.vscode-commons", 
+        "redhat.vscode-community-server-connector", 
+        "redhat.vscode-rsp-ui", 
+        "redhat.vscode-xml", 
+        "richardwillis.vscode-gradle", 
+        "richardwillis.vscode-gradle-extension-pack", 
+        "SonarSource.sonarlint-vscode", 
+        "tintinweb.vscode-decompiler", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscjava.vscode-java-debug", 
+        "vscjava.vscode-java-dependency", 
+        "vscjava.vscode-java-pack", 
+        "vscjava.vscode-java-test", 
+        "vscjava.vscode-maven"
+    ]
+}

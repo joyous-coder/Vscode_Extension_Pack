@@ -1,0 +1,23 @@
+{
+    "name": "shell-extension-pack",
+    "displayName": "Shell Extension Pack",
+    "description": "Help you write shell script more easily!",
+    "version": "0.0.1",
+    "publisher": "joyous-coder",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "rogalmic.bash-debug", 
+        "foxundermoon.shell-format", 
+        "Remisa.shellman", 
+        "timonwong.shellcheck" 
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyous-coder/VSCode_Extension_Pack_ShellScript.git"
+    }
+}

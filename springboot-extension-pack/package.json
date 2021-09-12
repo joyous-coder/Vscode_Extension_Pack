@@ -1,0 +1,44 @@
+{
+    "name": "springboot-extension-pack",
+    "displayName": "SpringBoot Extension Pack",
+    "description": "Help you code your springboot program more easily !!!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "publisher": "joyous-coder",
+    "keywords": ["springboot","maven","java"],
+    "extensionPack": [ 
+        "eamodio.gitlens", 
+        "GabrielBB.vscode-lombok", 
+        "Gruntfuggly.todo-tree", 
+        "humao.rest-client", 
+        "ms-azuretools.vscode-docker", 
+        "naco-siren.gradle-language", 
+        "Pivotal.vscode-boot-dev-pack", 
+        "Pivotal.vscode-concourse", 
+        "Pivotal.vscode-manifest-yaml", 
+        "Pivotal.vscode-spring-boot", 
+        "redhat.java", 
+        "redhat.vscode-commons", 
+        "redhat.vscode-xml", 
+        "richardwillis.vscode-gradle", 
+        "richardwillis.vscode-gradle-extension-pack", 
+        "SonarSource.sonarlint-vscode", 
+        "tintinweb.vscode-decompiler", 
+        "vscjava.vscode-java-debug", 
+        "vscjava.vscode-java-dependency", 
+        "vscjava.vscode-java-pack", 
+        "vscjava.vscode-java-test", 
+        "vscjava.vscode-maven", 
+        "vscjava.vscode-spring-boot-dashboard", 
+        "vscjava.vscode-spring-initializr" 
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyous-coder/-VSCode_Extension_Pack_SpringBoot.git"
+    }
+}
