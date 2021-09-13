@@ -1,0 +1,31 @@
+{
+    "name": "python-extension-pack",
+    "displayName": "Python Extension Pack",
+    "description": "Help you write python more easily !!!",
+    "version": "0.0.2",
+    "publisher": "joyous-coder",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "icon.png",
+    "extensionPack": [ 
+        "eamodio.gitlens", 
+        "Gruntfuggly.todo-tree", 
+        "humao.rest-client", 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter", 
+        "ms-toolsai.jupyter-keymap", 
+        "SonarSource.sonarlint-vscode", 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "xirider.livecode",
+        "dongli.python-preview",
+        "tyriar.sort-lines",
+        "frhtylcn.pythonsnippets",
+        "njpwerner.autodocstring",
+        "kevinrose.vsc-python-indent"
+    ]
+}
