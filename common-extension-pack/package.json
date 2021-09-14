@@ -2,7 +2,7 @@
     "name": "common-extension-pack",
     "displayName": "Common Extension Pack",
     "description": "For common use",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "joyous-coder",
     "icon": "icon.png",
     "engines": {
@@ -13,8 +13,9 @@
     ],
     "extensionPack": [
         "alefragnani.bookmarks",
-        "xyz.local-history", 
+        "xyz.local-history",
         "pkief.material-icon-theme",
-        "vscodevim.vim"
+        "vscodevim.vim",
+        "coenraads.bracket-pair-colorizer-2"
     ]
 }
