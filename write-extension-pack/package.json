@@ -1,0 +1,23 @@
+{
+    "name": "write-extension-pack",
+    "displayName": "Write Extension Pack",
+    "description": "Help you write  more easily!!!",
+    "version": "0.0.1",
+    "publisher": "joyous-coder",
+    "keywords": ["write","markdown","drawio"],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "shd101wyy.markdown-preview-enhanced",
+        "hediet.vscode-drawio",
+        "spades.vs-picgo",
+        "james-yu.latex-workshop",
+        "souche.vscode-mindmap",
+        "michalyao.evermonkey"
+    ]
+}

@@ -2,9 +2,13 @@
     "name": "vue-extension-pack",
     "displayName": "Vue Extension Pack",
     "description": "Help you write Vue more easily!!!",
-    "version": "0.0.3",
+    "version": "0.0.8",
     "publisher": "joyous-coder",
-    "keywords": ["vue","javascript","js"],
+    "keywords": [
+        "vue",
+        "javascript",
+        "js"
+    ],
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.60.0"
@@ -16,24 +20,24 @@
         "type": "git",
         "url": "https://github.com/joyous-coder/VSCode_Extension_Pack_Vue.git"
     },
-    "extensionPack": [ 
-        "abusaidm.html-snippets", 
-        "anseki.vscode-color", 
-        "auchenberg.vscode-browser-preview", 
-        "christian-kohler.npm-intellisense", 
-        "christian-kohler.path-intellisense", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "humao.rest-client", 
-        "octref.vetur", 
-        "redhat.vscode-xml", 
-        "ritwickdey.LiveServer", 
-        "sdras.vue-vscode-snippets", 
-        "SonarSource.sonarlint-vscode", 
-        "VisualStudioExptTeam.vscodeintellicode", 
+    "extensionPack": [
+        "anseki.vscode-color",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "humao.rest-client",
+        "octref.vetur",
+        "redhat.vscode-xml",
+        "ms-vscode.live-server",
+        "sdras.vue-vscode-snippets",
+        "SonarSource.sonarlint-vscode",
+        "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
-        "jasonnutter.search-node-modules"
+        "jasonnutter.search-node-modules",
+        "cipchk.cssrem",
+        "ms-edgedevtools.vscode-edge-devtools"
     ]
 }

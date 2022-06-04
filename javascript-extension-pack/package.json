@@ -2,7 +2,7 @@
     "name": "javascript-extension-pack",
     "displayName": "Javascript Extension Pack",
     "description": "Help you program js more easily !!!",
-    "version": "0.0.2",
+    "version": "0.0.8",
     "publisher": "joyous-coder",
     "engines": {
         "vscode": "^1.60.0"
@@ -12,9 +12,8 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "abusaidm.html-snippets",
         "anseki.vscode-color",
-        "auchenberg.vscode-browser-preview",
+        "ms-vscode.live-server",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
@@ -23,10 +22,11 @@
         "esbenp.prettier-vscode",
         "humao.rest-client",
         "redhat.vscode-xml",
-        "ritwickdey.LiveServer",
         "SonarSource.sonarlint-vscode",
         "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
-        "jasonnutter.search-node-modules"
+        "jasonnutter.search-node-modules",
+        "cipchk.cssrem",
+        "ms-edgedevtools.vscode-edge-devtools"
     ]
 }

@@ -2,7 +2,7 @@
     "name": "reactjs-extension-pack",
     "displayName": "Reactjs Extension Pack",
     "description": "Help you write Reactjs easily !!!",
-    "version": "0.0.2",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -16,9 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "abusaidm.html-snippets",
         "anseki.vscode-color",
-        "auchenberg.vscode-browser-preview",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
@@ -27,11 +25,13 @@
         "esbenp.prettier-vscode",
         "humao.rest-client",
         "redhat.vscode-xml",
-        "ritwickdey.LiveServer",
+        "ms-vscode.live-server",
         "SonarSource.sonarlint-vscode",
         "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
         "jasonnutter.search-node-modules",
-        "xabikos.reactsnippets"
+        "xabikos.reactsnippets",
+        "cipchk.cssrem",
+        "ms-edgedevtools.vscode-edge-devtools"
     ]
 }
